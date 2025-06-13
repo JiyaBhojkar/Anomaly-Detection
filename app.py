@@ -6,7 +6,7 @@ import os
 
 # ---- PAGE CONFIG ----
 st.set_page_config(
-    page_title="🔍 Anomaly-Detection-using-Teachable-Machine",
+    page_title="🔍 Anomaly-Detection",
     page_icon="🧠",
     layout="wide"
 )
